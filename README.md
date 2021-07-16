@@ -1,5 +1,7 @@
 # 스프링 시큐리티 기본 V1
 
+## [참고 Repo](https://github.com/codingspecialist/Sringboot-Security-Basic-V1)
+
 ### MySQL DB 및 사용자 생성
 
 ```sql
@@ -31,6 +33,8 @@ use security;
 ```
 
 # 스프링 시큐리티 OAuth2.0 V2
+
+## [참고 Repo](https://github.com/codingspecialist/Springboot-Security-OAuth2.0-V2)
 
 - 페이스북, 구글 로그인 및 기본 시큐리티 연동
 
